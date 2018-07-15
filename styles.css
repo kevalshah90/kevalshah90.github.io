@@ -1,0 +1,16 @@
+.left{
+
+  background-color: #F1F1F1;
+  float: left;
+}
+
+.right{
+
+  background-color: #F1F1F1;
+  float: right;
+}
+
+.bio{
+  
+  text-align:left;
+}
