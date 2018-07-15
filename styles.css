@@ -10,7 +10,8 @@
   float: right;
 }
 
-.bio{
-  
-  text-align:left;
+.center{
+
+  background-color: #F1F1F1;
+  align-content: center;
 }
