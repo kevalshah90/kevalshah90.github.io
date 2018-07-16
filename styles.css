@@ -2,12 +2,14 @@
 
   background-color: #F1F1F1;
   float: left;
+  position: relative;
 }
 
 .right{
 
   background-color: #F1F1F1;
   float: right;
+  position: relative;
 }
 
 .center{
