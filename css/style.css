@@ -1,1 +1,27 @@
+.left{
 
+  background-color: #F1F1F1;
+  float: left;
+  position: relative;
+}
+
+.right{
+
+  background-color: #F1F1F1;
+  float: right;
+  position: relative;
+}
+
+.center{
+
+  background-color: #F1F1F1;
+  align-content: center;
+}
+
+.content{
+  float: left;
+}
+
+.links{
+  float:right;
+}
