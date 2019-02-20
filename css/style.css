@@ -1,34 +1,31 @@
-.left{
+left{
 
   background-color: #F1F1F1;
   float: left;
   position: relative;
 }
 
-.right{
+right{
 
   background-color: #F1F1F1;
   float: right;
   position: relative;
 }
 
-.center{
+center{
 
   background-color: #F1F1F1;
   align-content: center;
 }
 
-.content{
-  float: middle;
+content{
+        margin: 1.5em 2em 4em 6em;
 }
 
-.links{
+links{
   float:right;
 }
 
 p {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+   margin: 2.5em 47.5em 3.5em -0.5em;
 }
